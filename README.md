@@ -10,4 +10,5 @@ Reese
 Ronit
 ## "Tentative"
 ## description
+A website with event RSVP capabilities.
 ##Repository Purpose
