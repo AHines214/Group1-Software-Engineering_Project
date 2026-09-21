@@ -5,7 +5,7 @@ Software Engineering Project 1 - Fall 2026
 Aaron  
 Trinity  
 Daniel  
-Kaelean  
+Kaelan  
 Divyam  
 Reese  
 Ronit Dhaliwal  
