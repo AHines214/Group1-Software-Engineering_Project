@@ -8,7 +8,7 @@ Daniel
 Kaelean  
 Divyam  
 Reese  
-Ronit  
+Ronit Dhaliwal  
 ## Description
 Tentative will be a group scheduling webapp that will help resolve conflicts when scheduling events, big or small.  
 ## Usage
