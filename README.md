@@ -1,7 +1,7 @@
 # Tentative
 ## Team 1 - Software Engineering Project
 Software Engineering Project 1 - Fall 2026
-## Team Members  
+## Team Members:  
 Aaron  
 Trinity  
 Daniel  
